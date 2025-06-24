@@ -6,7 +6,7 @@ This project is a custom implementation of the classic **Flappy Bird** game with
 
 - The game consists of a **server** that maintains game logic and state, and a **client** that renders the game UI.
 - Players can control the bird using:
-  - `Space` or `Tab` keys (on desktop)
+  - `Space` key (on desktop)
   - A **touch sensor connected to a Raspberry Pi** (via GPIO)
 
 This setup allows for remote or embedded physical interaction with the game in real time.
